@@ -14,7 +14,7 @@
     <description>Library for parsing, encoding and validating bencoded documents in Java</description>
 
     <properties>
-        <snakeyaml-version>1.17</snakeyaml-version>
+        <snakeyaml-version>1.33</snakeyaml-version>
     </properties>
 
     <dependencyManagement>
